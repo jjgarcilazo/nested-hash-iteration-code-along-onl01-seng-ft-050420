@@ -22,7 +22,7 @@ require 'pry'
       end
     end
   end
-end	
+end
 
 def remove_strawberry(contacts)
   # Assign Freddy Mercury's hash to a variable
